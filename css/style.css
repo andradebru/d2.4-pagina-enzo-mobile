@@ -8,7 +8,7 @@ body {
 
 .header {
   height: auto;
-  width: calc(100vw - 34%);
+  /* width: calc(100vw - 34%); */
   margin: 53px 14% 0% 14%;
 }
 
@@ -115,7 +115,7 @@ progress {
   text-align: center;
   padding: 2% 14%;
   height: auto;
-  width: calc(100vw - 25%);
+  width: auto;
   background-color: #eee;
 }
 
