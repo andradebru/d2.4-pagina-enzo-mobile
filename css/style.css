@@ -62,7 +62,7 @@ p {
 .habilities {
   text-align: center;
   height: auto;
-  margin: 53px 14% 0% 14%;
+  margin: 53px 14%;
 }
 
 .green-button {
@@ -133,8 +133,8 @@ progress {
 
 .project-icons {
   fill: #293651;
-  height: 100px;
-  width: 100px;
+  height: 5em;
+  width: 5em;
 }
 
 .div-contacts {
@@ -159,9 +159,9 @@ progress {
 }
 
 .socialmedia-icons {
-  width: 50px;
-  height: 50px;
-  padding: 20px;
+  width: 3em;
+  height: 3em;
+  padding: 0.5em;
   fill: #293651;
 }
 
