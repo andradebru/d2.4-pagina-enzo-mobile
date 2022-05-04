@@ -127,7 +127,8 @@ progress {
   margin-bottom: 15px;
   background-color: #fff;
   display: inline-block;
-  height: auto;
+  height: 350px;
+  width: 360px;
 }
 
 .project-icons {
