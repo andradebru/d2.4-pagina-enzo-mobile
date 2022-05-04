@@ -8,6 +8,7 @@ body {
 
 .header {
   height: auto;
+  width: calc(100vw - 34%);
   margin: 53px 14% 0% 14%;
 }
 
@@ -114,25 +115,19 @@ progress {
   text-align: center;
   padding: 2% 14%;
   height: auto;
-  width: auto;
+  width: calc(100vw - 25%);
   background-color: #eee;
 }
 
-.projects-title {
-  text-align: center;
-  font-size: 38px;
-  font-weight: 600;
-}
-
 .projects {
+  box-sizing: border-box;
   border-radius: 5px;
   box-shadow: 0 0 10px #dfdede;
-  padding: 35px;
-  display: inline-block;
-  height: 300px;
-  width: 320px;
-  margin: 15px;
+  padding: 20px;
+  margin-bottom: 15px;
   background-color: #fff;
+  display: inline-block;
+  height: auto;
 }
 
 .project-icons {
