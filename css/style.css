@@ -128,7 +128,7 @@ progress {
   background-color: #fff;
   display: inline-block;
   height: 350px;
-  width: 360px;
+  max-width: calc(100vw - 22%);
 }
 
 .project-icons {
@@ -143,7 +143,7 @@ progress {
   position: relative;
   padding: 2% 5%;
   height: auto;
-  width: 60%;
+  width: 75%;
   border-radius: 15px;
   background-color: #eeeeee;
 }
@@ -177,3 +177,6 @@ a {
   text-decoration: none;
   color: #868686;
 }
+
+/* Media Queries */
+/* @media (win-width: ); */
