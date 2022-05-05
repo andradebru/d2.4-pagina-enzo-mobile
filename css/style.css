@@ -195,7 +195,12 @@ a {
   .destaque-contato {
     letter-spacing: 0px;
 
-    a {
+  }
+  
+  a {
+  margin-top: 50px;
+  text-decoration: none;
+  color: #868686;
       font-size: 14px;
       margin-top: 50px;
       text-decoration: none;
