@@ -212,6 +212,11 @@ a {
     height: auto;
     width: calc(100vw - 95%);
   }
+
+  .destaque-contato {
+    letter-spacing: 4px;
+    font-size: 20px;
+  }
 }
 
 @media (min-width: 760px) {
